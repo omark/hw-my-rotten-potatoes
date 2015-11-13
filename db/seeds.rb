@@ -1,4 +1,4 @@
-## Seed the RottenPotatoes DB with some movies.
+# Seed the RottenPotatoes DB with some movies.
 more_movies = [
   {:title => 'Aladdin', :rating => 'G',
     :release_date => '25-Nov-1992'},
